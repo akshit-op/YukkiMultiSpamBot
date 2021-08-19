@@ -1,11 +1,10 @@
-# Yukki Multi Spam Bot 
+
 
 <p align="center">
   <img src="https://telegra.ph/file/9daafeb39193a4a22ee5c.jpg">
 </p>
 
 ## 🚀 Deploy on Heroku 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FYukkiBot%2FYukkiMultiSpamBot)
 
 You can Use these [API ID and API HASH](https://t.me/OfficialYukki/135) while deploying
 
